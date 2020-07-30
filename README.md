@@ -1,4 +1,4 @@
-# VMZ app back end
+# VMZ App back end
 
 ## Description
 
