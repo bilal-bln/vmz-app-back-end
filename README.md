@@ -16,7 +16,7 @@ Install dependencies using the Node package manager (**npm**):
 
 `$ npm install`
 
-## Run back end
+## Run the VMZ App back end
 
 Open the terminal and navigate to the "vmz-app-back-end" root directory on the command line:
 
@@ -25,3 +25,7 @@ Open the terminal and navigate to the "vmz-app-back-end" root directory on the c
 Run the **index.js** file using Node.js:
 
 `$ node index.js`
+
+## Get and run VMZ App front end
+
+Please follow the instructions on the [VMZ App front end GitHub page](https://github.com/bilal-bln/vmz-app-front-end) to get and run the VMZ App front end.
